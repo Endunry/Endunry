@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raqhael
 - 👀 I’m interested in everything that has something to do with Coding/Computers
-- 🌱 I’m currently learning ReactJS 
+- 🌱 I’m currently learning REMIX.js
 - 📫 How to reach me: Raphael.sack@gmx.de
 
 <!---
