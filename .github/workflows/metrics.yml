@@ -23,5 +23,5 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
-          commits_authoring: Raphael Sack, Raqhael, Endunry, Raqhael@users.noreply.github.com, i20029@hb.dhbw-stuttgart.de, i20029, Raphaelsxck@gmail.com, Raphael.sack@gmx.de
+          commits_authoring: Raqhael@users.noreply.github.com, i20029@hb.dhbw-stuttgart.de, i20029, Raphaelsxck@gmail.com, Raphael.sack@gmx.de
 
